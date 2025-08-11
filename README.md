@@ -1,31 +1,23 @@
-Product Sales Forecasting – Retail Analytics
-Overview
-This project uses machine learning to predict next-quarter product sales from historical retail data.
-It helps businesses make better inventory and planning decisions.
+# Product Sales Forecasting – Retail Analytics
 
-Dataset
-Source: [Kaggle / Internal Company Data]
+## Overview
+This project predicts next-quarter product sales using historical transaction data.
+It uses Python for data analysis, feature engineering, and regression modeling to forecast demand and help with better inventory planning.
 
-Size: 25,000 rows × 10 columns
+## Dataset
+- **Source:** (https://www.kaggle.com/datasets/yasserh/walmart-dataset)]
 
-Features: Date, Product ID, Category, Units Sold, Revenue, etc.
+## Tech Stack
+- Python 3
+- Pandas, NumPy
+- scikit-learn
+- Matplotlib, Seaborn
 
-Target: Next-quarter sales volume
+## Approach
+1. Data Cleaning & Preprocessing
+2. Feature Engineering (time-based features, lag values, etc.)
+3. Model Training (Linear Regression, Random Forest)
+4. Model Evaluation (RMSE, MAE)
 
-Tech Stack
-Python 3
-
-Pandas, NumPy
-
-scikit-learn
-
-Matplotlib, Seaborn
-
-Approach
-Data cleaning and preprocessing
-
-Feature engineering (time-based features, lag values, etc.)
-
-Model training (Linear Regression, Random Forest)
-
-Model evaluation using RMSE, MAE
+## 📈 Results
+- **Best Model:** Random Forest Regressor
