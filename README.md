@@ -1,11 +1,10 @@
 # Product Sales Forecasting – Retail Analytics
 
 ## Overview
-This project predicts next-quarter product sales using historical transaction data.
-It uses Python for data analysis, feature engineering, and regression modeling to forecast demand and help with better inventory planning.
+This project forecasts next-quarter product sales using historical transaction data. It applies Python for data analysis, feature engineering, and regression modeling to help businesses improve inventory planning.
 
 ## Dataset
-- **Source:** Walmart Sales Dataset – Kaggle
+- **Source:** [Walmart Sales Dataset – Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
 
 ## Tech Stack
 - Python 3
