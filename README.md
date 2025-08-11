@@ -5,7 +5,7 @@ This project predicts next-quarter product sales using historical transaction da
 It uses Python for data analysis, feature engineering, and regression modeling to forecast demand and help with better inventory planning.
 
 ## Dataset
-- **Source:** (https://www.kaggle.com/datasets/yasserh/walmart-dataset)]
+- **Source:** Walmart Sales Dataset – Kaggle
 
 ## Tech Stack
 - Python 3
